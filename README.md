@@ -14,7 +14,7 @@ MultiSpace is a productivity web app designed to help users manage their time an
 ## Installation
 
 1. Clone or download this repository.
-2. Open `index.html` in any modern web browser.
+2. Open [`Multispace`](https://tangerineboi.github.io/MultiSpace/) in any modern web browser.
 
 No additional setup required.
 
